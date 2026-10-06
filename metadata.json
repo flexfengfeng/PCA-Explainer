@@ -1,0 +1,6 @@
+{
+  "name": "Interactive PCA Visualizer & Dimensionality Reduction Explorer",
+  "description": "An interactive pedagogical guide explaining Principal Component Analysis (PCA): discover principal components, maximize variance, minimize projection error, and reduce dimensionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
